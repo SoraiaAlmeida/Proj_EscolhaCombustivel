@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proj_EscolhaCombustivel</string>
+    <string name="edtGasolina">Valor Gasolina (l)</string>
+    <string name="edtEtanol">Valor Etanol (l)</string>
+    <string name="calcular">Calcular</string>
+</resources>
